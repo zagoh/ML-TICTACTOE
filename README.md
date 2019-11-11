@@ -16,9 +16,12 @@ User will be using &quot;O&quot; while computer uses &quot;X&quot;. Simply start
 
 Explanation:
 
-Machine-Learning Program
-**ttt_Turn.cs** is the control script where the main operation takes place
-**ttt_Agent.cs** is the script that controls the computer
+Machine-Learning Program:
+
+**ttt_Turn.cs** is the control script where the main operation takes place.
+
+**ttt_Agent.cs** is the script that controls the computer.
+
 Unity ml-agents were used for this project.
 The decision made by the computer is done by a mixture of hard-code and machine-learning. The hard-coding remove the obvious winning possibilities such as:
 
